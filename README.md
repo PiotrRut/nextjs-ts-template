@@ -12,7 +12,7 @@ To generate a new page, run the below command in the root of the project. This w
 $ yarn new:page
 ```
 
-To create a new component, along with separate `.styles`, `.models` and `.test` files (for styles, models and tests respectively), run the below command:
+To create a new component, along with separate `.styles`, `.models` and `.test` files (for styles, props and tests respectively), run the below command:
 
 ```bash
 $ yarn new:component
