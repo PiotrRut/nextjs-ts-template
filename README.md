@@ -28,3 +28,8 @@ The basic packages included in this template are:
 - Eslint (with several plugins and rules pre-configured)
 - Jest & RTL (for unit and snapshot tests)
 - Husky (including a pre-commit hook to run unit tests)
+
+## Other features
+
+- Convenient shortcuts for often reused CSS - [see here](https://github.com/PiotrRut/nextjs-ts-template/blob/main/src/theme/shortcuts.ts)
+- Object of tokens containing some common pixel values, which returns their value in `rem` - good for responsive layouts and for keeping consistency throughout the project - [see here](https://github.com/PiotrRut/nextjs-ts-template/blob/main/src/theme/sizes.ts)
