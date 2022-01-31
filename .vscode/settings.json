@@ -1,0 +1,17 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "cSpell.words": [
+    "automagically",
+    "Cantarell",
+    "Fira",
+    "Neue",
+    "seagreen",
+    "Segoe",
+    "skyblue",
+    "steelblue",
+    "toastify",
+    "Todos"
+  ]
+}
